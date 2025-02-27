@@ -10,5 +10,6 @@
 #define _SIMPLEMATH_	//allora a questo punto si ha un aridefinizione, si ha due volte la stessa funzione. il tutto allora si risolve 
 						//ponendo #ifndef
 float mean (int a, int b);
+int max (int a, int b);
 
 #endif
